@@ -77,7 +77,7 @@ a {
   gap: 15%;
   padding-bottom: 20px;
   padding-top: 8%;
-  margin-bottom: 12%;
+  margin-bottom: 15.5%;
 }
 
 .description {
@@ -133,12 +133,8 @@ h2 {
   color: #737373;
 }
 
-.prog-lang {
-  margin-left: 100px;
-}
-
-.proj-type {
-  padding-left: 526px;
+.h-color span {
+  color: #171717;
 }
 
 .projects {
@@ -161,8 +157,8 @@ h2 {
   margin: 20px 100px;
   position: absolute;
   bottom: 5px;
-  left: 45%;
-  top: 121%;
+  left: 0%;
+  top: 124%;
 }
 
 .social-med a:hover {
