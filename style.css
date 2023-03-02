@@ -151,16 +151,6 @@ h2 {
   top: 125%;
 }
 
-.project-name {
-  font-size: 32px;
-  font-weight: bold;
-  margin: 20px 100px;
-  position: absolute;
-  bottom: 5px;
-  left: 0%;
-  top: 124%;
-}
-
 .social-med a:hover {
   transform: scale(110%);
   transition: 300ms;
@@ -172,12 +162,6 @@ h2 {
   justify-content: space-between;
   gap: 30%;
   margin: 10px 100px 0 100px;
-}
-
-.repo {
-  position: absolute;
-  top: 133%;
-  left: 65.8%;
 }
 
 .repo:hover {
