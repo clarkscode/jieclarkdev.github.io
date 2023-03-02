@@ -210,4 +210,8 @@ h2 {
   .project-description {
     font-size: 18px;
   }
+
+  footer p {
+    font-size: 14px;
+  }
 } ;
