@@ -176,7 +176,8 @@ h2 {
     margin-right: auto;
     width: 30em;
     padding-bottom: 20px;
-    margin-bottom: 15.5%;
+    /* margin-bottom: 15.5%; */
+    height: 1500px;
   }
 
   #profile {
