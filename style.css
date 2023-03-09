@@ -18,6 +18,14 @@ h1 {
   margin-left: 80px;
 }
 
+h1::first-letter {
+  margin-right: 10px;
+  color: #171717;
+  background-color: #10b981;
+  padding: 0 5px;
+  border-radius: 10px;
+}
+
 nav a {
   font-family: inherit;
 }
