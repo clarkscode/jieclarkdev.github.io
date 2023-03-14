@@ -1,0 +1,52 @@
+.me {
+  line-height: 2;
+  font-size: 50px;
+  font-family: "Coiny", sans-serif;
+  margin-left: 100px;
+  color: #171717;
+}
+
+.web {
+  border-left: 5px solid #f8fafc;
+  font-size: 80px;
+  padding: 10px 20px;
+  color: #10b981;
+  border-radius: 20px;
+  font-family: "Coiny", sans-serif;
+}
+
+.dev {
+  font-size: 50px;
+  padding: 10px 20px;
+  color: #171717;
+  border-radius: 20px;
+  font-family: "Coiny", sans-serif;
+  text-transform: uppercase;
+  border-right: 5px solid #f8fafc;
+}
+
+.self-intro {
+  font-size: 24px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 10em;
+  padding-right: 30em;
+}
+.head-hob {
+  font-family: "Coiny", sans-serif;
+  font-size: 25px;
+  padding: 2em 5em;
+  text-transform: uppercase;
+}
+
+.hobbies {
+  font-size: 24px;
+  padding: 0 10em;
+  list-style: none;
+}
+
+.self-info {
+  font-size: 24px;
+  padding: 75px 10em;
+  list-style: none;
+}
